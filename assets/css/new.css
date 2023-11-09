@@ -1,0 +1,9 @@
+.button1{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
